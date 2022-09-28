@@ -1,2 +1,2 @@
-# rekapitulasi
-this repo created form rekapitulasi project kp gramt
+# codeigniter-login-sistem
+this is a master data of sistem login which build by codeigniter 3
